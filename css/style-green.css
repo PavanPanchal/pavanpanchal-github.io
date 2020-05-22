@@ -7,7 +7,7 @@ body {
 background-image{
 	
 		
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-attachment: fixed;
   background-size: cover;
   background-position: center center;
