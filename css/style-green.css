@@ -4,6 +4,9 @@ body {
   color: #4e4e4e;
  /* background-image : url(img/cover-grad.jpg); */
 }
+background-image{
+	background-size: cover;
+}
 
 h1,
 h2,
