@@ -1,6 +1,6 @@
 
 body {
-  background-color: #000;
+  background-color: #fff;
   color: #4e4e4e;
 }
 
@@ -9,7 +9,7 @@ h2,
 h4,
 h5,
 h6 {
-  color: #000;
+  color: #fff;
   font-family: railway;
 }
 
@@ -224,7 +224,7 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
-  background-color: #000;
+  background-color: #fff;
   color: #fff;
   box-shadow: 0 0 0 3px #bbf5df;
   transition: all 500ms ease;
@@ -478,7 +478,7 @@ a:hover {
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #000000;
+  background-color: #ffffff;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -1079,7 +1079,7 @@ border-radius: 10px;
 
 footer {
   text-align: center;
-  color: #000;
+  color: #fff;
   padding-bottom: 4rem;
 
 
@@ -1098,7 +1098,7 @@ footer .credits {
 }
 
 footer .credits a {
-  color: #000;
+  color: #fff;
 
 }
 
@@ -1165,14 +1165,14 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #000;
+  background-color: #fff;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
   background-color: #EE82EE	;
-  color: #000;
+  color: #fff;
   border-color: #bbf5df;
 }
 
