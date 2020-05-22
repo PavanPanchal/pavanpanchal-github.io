@@ -1,6 +1,6 @@
 
 body {
-  background-color: #fff;
+  background-color: #87CEEB;
   color: #4e4e4e;
 }
 
@@ -9,7 +9,7 @@ h2,
 h4,
 h5,
 h6 {
-  color: #fff;
+  color: #87CEEB;
   font-family: railway;
 }
 
@@ -155,7 +155,7 @@ a:hover {
 }
 
 .subtitle-a {
-  color: #fff;
+  color: #87CEEB;
 }
 
 .line-mf {
@@ -196,7 +196,7 @@ a:hover {
   border-radius: 10px;
   padding: 3rem 1.25rem;
   position: relative;
-  background-color: #fff;
+  background-color: #87CEEB;
   margin-bottom: 3rem;
   z-index: 2;
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.06), 0 2px 5px 0 rgba(0, 0, 0, 0.2);
@@ -224,8 +224,8 @@ a:hover {
 }
 
 .socials .ico-circle:hover {
-  background-color: #fff;
-  color: #fff;
+  background-color: #87CEEB;
+  color: #87CEEB;
   box-shadow: 0 0 0 3px #bbf5df;
   transition: all 500ms ease;
 }
@@ -315,7 +315,7 @@ a:hover {
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
-  color: #fff;
+  color: #87CEEB;
   top: auto;
   left: auto;
   right: 30px;
@@ -330,7 +330,7 @@ a:hover {
   position: fixed;
   display: none;
   background: #EE82EE	;
-  color: #fff;
+  color: #87CEEB;
   width: 44px;
   height: 44px;
   text-align: center;
@@ -345,7 +345,7 @@ a:hover {
 
 .back-to-top i {
   padding-top: 12px;
-  color: #fff;
+  color: #87CEEB;
 }
 
 /* Prelaoder */
@@ -358,7 +358,7 @@ a:hover {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: #87CEEB;
 }
 
 #preloader:before {
@@ -423,7 +423,7 @@ a:hover {
 
 .navbar-b.navbar-trans .nav-link,
 .navbar-b.navbar-reduce .nav-link {
-  color: #fff;
+  color: #87CEEB;
   text-transform: uppercase;
   font-weight: 600;
 }
@@ -462,23 +462,23 @@ a:hover {
 }
 
 .navbar-b.navbar-trans .nav-link:before {
-  background-color: #fff;
+  background-color: #87CEEB;
 }
 
 .navbar-b.navbar-trans .nav-link:hover {
-  color: #fff;
+  color: #87CEEB;
 }
 
 .navbar-b.navbar-trans .show > .nav-link,
 .navbar-b.navbar-trans .active > .nav-link,
 .navbar-b.navbar-trans .nav-link.show,
 .navbar-b.navbar-trans .nav-link.active {
-  color: #fff;
+  color: #87CEEB;
 }
 
 .navbar-b.navbar-reduce {
   transition: all .5s ease-in-out;
-  background-color: #ffffff;
+  background-color: #87CEEB87CEEB;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -511,7 +511,7 @@ a:hover {
 }
 
 .navbar-b .navbar-brand {
-  color: #fff;
+  color: #87CEEB;
   font-size: 1.6rem;
   font-weight: 600;
 }
@@ -536,7 +536,7 @@ a:hover {
 
 .navbar-b .dropdown-menu .dropdown-item:hover {
   background-color: #EE82EE	;
-  color: #fff;
+  color: #87CEEB;
   transition: all 500ms ease;
 }
 
@@ -557,7 +557,7 @@ a:hover {
 
 .navbar-toggler span {
   display: block;
-  background-color: #fff;
+  background-color: #87CEEB;
   height: 3px;
   width: 25px;
   margin-top: 4px;
@@ -606,7 +606,7 @@ a:hover {
 .intro {
   height: 100vh;
   position: relative;
-  color: #fff;
+  color: #87CEEB;
 }
 
 .intro .intro-content {
@@ -626,7 +626,7 @@ a:hover {
 }
 
 .intro .intro-title {
-  color: #fff;
+  color: #87CEEB;
   font-weight: 600;
   font-size: 3rem;
 }
@@ -670,7 +670,7 @@ a:hover {
 }
 
 .intro-single .breadcrumb a {
-  color: #fff;
+  color: #87CEEB;
 }
 
 /*======================================
@@ -712,7 +712,7 @@ border-radius: 10px;
 ======================================*/
 
 .service-box {
-  background-color: #fff;
+  background-color: #87CEEB;
   padding: 2.5rem 1.3rem;
   border-radius: 1rem;
   margin-bottom: 3rem;
@@ -720,7 +720,7 @@ border-radius: 10px;
 
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
-  color: #fff;
+  color: #87CEEB;
   background-color: #EE82EE	;
   box-shadow: 0 0 0 10px #bbf5df;
 }
@@ -751,7 +751,7 @@ border-radius: 10px;
 ======================================*/
 
 .counter-box {
-  color: #fff;
+  color: #87CEEB;
   text-align: center;
 }
 
@@ -779,7 +779,7 @@ border-radius: 10px;
   margin-bottom: 3rem;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
-  background-color: #fff;
+  background-color: #87CEEB;
 }
 
 .work-box:hover img {
@@ -836,7 +836,7 @@ border-radius: 10px;
 }
 
 .testimonial-box {
-  color: #fff;
+  color: #87CEEB;
   text-align: center;
 }
 
@@ -849,7 +849,7 @@ border-radius: 10px;
 }
 
 .testimonial-box .author {
-  color: #fff;
+  color: #87CEEB;
   text-transform: uppercase;
   font-weight: 600;
   margin: 1rem 0;
@@ -860,7 +860,7 @@ border-radius: 10px;
 .testimonial-box .comit {
   font-size: 2rem;
   color: #EE82EE	;
-  background-color: #fff;
+  background-color: #87CEEB;
   width: 52px;
   height: 52px;
   display: block;
@@ -889,7 +889,7 @@ border-radius: 10px;
 
 .card-blog .card-category {
   display: inline-block;
-  color: #fff;
+  color: #87CEEB;
   padding: 0 15px 5px;
   overflow: hidden;
   background-color: #EE82EE	;
@@ -897,7 +897,7 @@ border-radius: 10px;
 }
 
 .card-blog .card-category .category {
-  color: #fff;
+  color: #87CEEB;
   display: inline-block;
   text-transform: uppercase;
   font-size: .7rem;
@@ -933,7 +933,7 @@ border-radius: 10px;
 .box-comments,
 .widget-sidebar {
   padding: 2rem;
-  background-color: #fff;
+  background-color: #87CEEB;
   margin-bottom: 3rem;
 }
 
@@ -1035,7 +1035,7 @@ border-radius: 10px;
 }
 
 .sidebar-search input {
-  background-color: #fff;
+  background-color: #87CEEB;
   border-radius: 0;
   transition: all 0.5s ease-in-out;
 }
@@ -1057,7 +1057,7 @@ border-radius: 10px;
 }
 
 .widget-tags ul li a {
-  color: #fff;
+  color: #87CEEB;
 }
 
 /*======================================
@@ -1079,7 +1079,7 @@ border-radius: 10px;
 
 footer {
   text-align: center;
-  color: #fff;
+  color: #87CEEB;
   padding-bottom: 4rem;
 
 
@@ -1088,7 +1088,7 @@ footer {
 footer .copyright {
   margin-bottom: .3rem;
       border-radius: 8px;
- background-color: #fff
+ background-color: #87CEEB
   
 }
 
@@ -1098,7 +1098,7 @@ footer .credits {
 }
 
 footer .credits a {
-  color: #fff;
+  color: #87CEEB;
 
 }
 
@@ -1165,14 +1165,14 @@ footer .credits a {
 }
 
 .button:hover {
-  background-color: #fff;
-  color: #fff;
+  background-color: #87CEEB;
+  color: #87CEEB;
   transition: all 500ms ease;
 }
 
 .button-a {
   background-color: #EE82EE	;
-  color: #fff;
+  color: #87CEEB;
   border-color: #bbf5df;
 }
 
