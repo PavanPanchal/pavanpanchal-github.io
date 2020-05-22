@@ -87,7 +87,7 @@ a:hover {
 	
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+ /* background-size: cover; */
   background-position: center center;
 }
 
@@ -624,6 +624,7 @@ a:hover {
   width: 100%;
   opacity: .9;
 }
+
 
 .intro .intro-title {
   color: #fff;
